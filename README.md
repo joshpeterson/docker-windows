@@ -1,1 +1,1 @@
-# docker-windows
+A [Docker configuration](https://hub.docker.com/repository/docker/petersonjm1/windows/) used to build C++ projects with Windows
